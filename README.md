@@ -1,2 +1,3 @@
-# hr-association
-HR Association OpenClassrooms exercise
+# hr-association API
+HR Association OpenClassrooms exercise - API part
+
